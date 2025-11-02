@@ -1,8 +1,3 @@
-Perfect ✅ Here’s the **whitepaper-style technical rewrite** of your third article —
-**“How to Learn Prompt Thinking Design” — English version (professionally re-articulated, not directly translated):**
-
----
-
 # 🧠 Mastering Prompt Thinking Design: From Commands to Cognitive Systems
 
 ### Abstract
