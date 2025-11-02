@@ -1,8 +1,4 @@
-
-
-
-
----
+```
 title: "Mastering Prompt Thinking Design: From Commands to Cognitive Systems"
 author: "Muhanned Alogaidi"
 version: "1.0"
@@ -14,7 +10,7 @@ abstract: >
   Prompt Thinking Design is the discipline of constructing cognitive blueprints inside AI models, 
   enabling reasoning-driven behavior rather than reaction-based execution. 
   This paper defines the framework, components, and practical path for mastering this approach.
----
+```
 
 # 🧠 Mastering Prompt Thinking Design: From Commands to Cognitive Systems
 
