@@ -1,0 +1,6 @@
+# Install only the providers you want to use
+openai
+google-generativeai
+anthropic
+mistralai
+cohere
